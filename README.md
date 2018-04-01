@@ -1,4 +1,4 @@
-# talk-topics
+# Talk topics
 Talk topic suggestions for Chennai.js
 Order is not important. Feel free to add/edit via PR
 
